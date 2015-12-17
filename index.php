@@ -7,7 +7,10 @@
  */
 
 require'vendor/autoload.php';
-use Intervention\Image\Image;
+
+
+
+// Un comentario super util
 
 
 
