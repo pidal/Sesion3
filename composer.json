@@ -1,0 +1,8 @@
+{
+  "require":{
+    "fzaninotto/faker":"1.5.*",
+    "intervention/image":"2.3.4"
+  }
+
+
+}
